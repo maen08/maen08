@@ -1,4 +1,4 @@
- ![maen-image](logo.jpg)
+
 
  :man:  Hi, call me maen
 
@@ -8,3 +8,5 @@
 - :bulb: Loves building dev-tools and dev-services
 - :cloud:  Currently learning Cloud-Techs
 - :smile:  Weekend is cool
+
+ ![maen-image](logo.jpg)
