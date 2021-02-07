@@ -9,4 +9,8 @@
 - :cloud:  Currently learning Cloud-Techs
 - :smile:  Weekend is cool
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maen08)](https://github.com/maen08/github-readme-stats)
+
+
+
  ![maen-image](maen.jpg)
