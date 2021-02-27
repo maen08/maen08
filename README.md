@@ -4,7 +4,7 @@
 
 - :beetle: Writing bugy codes is interesting
 - :snake: Ask me about Django and DRF
-- :bulb: Loves building dev-tools and dev-services
+- :bulb: Loves building Tools and Services
 - :cloud:  Currently learning Cloud-Techs
 - :smile:  Weekend is cool
 
