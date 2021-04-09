@@ -5,7 +5,7 @@
 - :beetle: Writing bugy codes is interesting
 - :snake: Ask me about Django and DRF
 - :bulb: Loves building Tools and Services
-- :cloud:  Currently learning Cloud-Techs
+- :cloud:  Currently learning ML
 - :smile:  Weekend is cool
 
 ![maen08's github stats](https://github-readme-stats.vercel.app/api?username=maen08)
