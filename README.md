@@ -3,7 +3,7 @@
  :man:  Hi, call me maen
 
 - :beetle: Writing bugy codes is interesting
-- :snake: Ask me about Django and DRF
+- :snake: Ask me about Django
 - :bulb: Loves building Tools and Services
 - :cloud:  Currently learning ML
 - :smile:  Weekend is cool
