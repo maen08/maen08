@@ -7,7 +7,7 @@
 - :bulb: Loves building Tools and Services
 - :cloud:  Currently learning ML
 - :smile:  Contribute on crazy ideas
-- :card_file_box: Backend is my thing
+
 
 ![maen08's github stats](https://github-readme-stats.vercel.app/api?username=maen08)
 
