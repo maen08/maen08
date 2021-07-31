@@ -2,7 +2,7 @@
 
  :man:  Hi, call me maen
 
-- :beetle: Writing bugy codes is interesting
+- 🐛: Writing bugy codes is interesting
 - :snake: Ask me about Rest APIs
 - :bulb: Loves building Tools and Services
 - :cloud:  Currently learning ML, DLT, alot haha!
