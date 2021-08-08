@@ -5,7 +5,7 @@
 - 🐛: Writing bugy codes is interesting
 - :snake: Ask me about anything relevant
 - :bulb: Loves building Tools and Services
-- :cloud:  Currently learning ML, DLT, alot haha!
+- :cloud:  Currently learning everything
 - :smile:  Contribute on crazy ideas
 
 
