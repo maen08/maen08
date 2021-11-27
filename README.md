@@ -18,7 +18,7 @@
 
 ### Skills 🛠️
 - **Languages**:        Python, JavaScript, Dart, C
-- **Frameworks**:       Django,Flask,NodeJS,Flutter 
+- **Frameworks**:       Django, Flask, NodeJS, Flutter 
 -  **AI**:              Computer Vision, NLP 
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DB**:   &nbsp;      MySQL,PostgreSQL,Mongo
@@ -27,15 +27,16 @@
 
 
 ### Projects 🐾
-Will documente this soon
+To be documented
 
 
 ### Achievements 🏆
 - Published 2 packages to **PyPI**
 - [Djangoroku](https://pypi.org/project/djangoroku)
 - [Tzunipy](https://pypi.org/project/tzunipy/)
-- Contributor to few open source projects
-- Writing articles on [Dev.to](https://dev.to/maen)
+- Contribute on few open source projects
+- Personal blog [maenblog](https://maenblog.tech)
+- Writing articles on [Dev.to](https://dev.to/maen) 
 
 
 ### Github Stats ⭐
