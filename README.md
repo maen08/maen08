@@ -4,7 +4,7 @@
 
 - 🐛: Debugging is interesting
 - :snake: Ask me about anything relevant
-- :bulb: Loves building Tools and Services (DaaS, BaaS)
+- :bulb: Loves building Tools and Services (DaaS, BaaS, FaaS)
 - :cloud:  Currently learning everything
 - :smile:  Contribute on crazy ideas and Open Source projects
 
@@ -22,7 +22,7 @@
 -  **AI**:              Computer Vision, NLP 
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **DB**:   &nbsp;      MySQL,PostgreSQL,Mongo
-- **DevOps**:  &ensp;   Linux, Git, Docker, CI
+- **DevOps**:  &ensp;   Linux, Git, Docker, Jenkins
 
 
 
@@ -31,12 +31,13 @@ To be documented
 
 
 ### Achievements 🏆
-- Published 2 packages to **PyPI**
+1. Published 3 Python libraries/packages (OpenSource projects) on **PyPI** 
 - [Djangoroku](https://pypi.org/project/djangoroku)
 - [Tzunipy](https://pypi.org/project/tzunipy/)
-- Contribute on few open source projects
-- Personal blog [maenblog](https://maenblog.tech)
-- Writing articles on [Dev.to](https://dev.to/maen) 
+- [Pyshoket](https://pypi.org/project/pyshoket/)
+
+2. Personal blog [maenblog](https://maenblog.tech)
+3. Writing articles on [Dev.to](https://dev.to/maen) 
 
 
 ### Github Stats ⭐
