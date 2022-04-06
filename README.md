@@ -56,7 +56,7 @@ I'm a fun of OpenSource projects contributing and build on top of OpenSource Sof
 - [Tzunipy](https://pypi.org/project/tzunipy/)
 
 
-### Worked with
+### Once worked with
 Here's the list of some companies which once worked with:
 -  [Tuya](https://www.tuya.com) -  Cloud and IoT platform
 -  [PostMage](https://postmage.com/) - SaaS platform helping Social media reach
