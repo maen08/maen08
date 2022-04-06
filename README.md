@@ -44,7 +44,7 @@ Other skills including **DevOps, OpenSource contributor and Tech writer**.
  
  
  - **Other skills**
-    - AI/ML:  NumPy | Pandas | Scikit-Learn | PyTorch
+    - AI / ML:  NumPy | Pandas | Scikit-Learn | PyTorch
     - Scrapping:  BeautifulSoup | Scrapy | Selenium
 
   
