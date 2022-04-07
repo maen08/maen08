@@ -50,7 +50,7 @@ Other skills including **DevOps, OpenSource contributor and Tech writer**.
   
   
 ### OpenSource contribution
-I'm a fun of OpenSource projects contributing and build on top of OpenSource Software (OSS). Here's the list of few Open Source
+I'm a fun of OpenSource projects and software (OSS). Here's the list of few Open Source projects which I maintain:
 - [Pyshoket](https://pypi.org/project/pyshoket/)
 - [Djangoroku](https://pypi.org/project/djangoroku)
 - [Tzunipy](https://pypi.org/project/tzunipy/)
