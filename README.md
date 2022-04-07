@@ -35,7 +35,7 @@ Other skills including **DevOps, OpenSource contributor and Tech writer**.
     - Cloud/Deployment:  Linode | DigitalOcean | Contabo | AWS | Heroku 
 
 
-- **As DevOps**
+- **As DevOps (Junior level)**
     - Containerization:  Docker | Docker compose
     - CI/CD :   Git | Git actions | Jenkins
     - Configuration management:  Ansible
