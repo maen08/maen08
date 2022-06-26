@@ -38,6 +38,7 @@ Other skills including **DevOps, OpenSource contributor and Tech writer**.
 - **As DevOps (Junior level)**
     - Containerization:  Docker | Docker compose
     - CI/CD :   Git | Git actions | Jenkins
+    - Provisioning:  Terraform
     - Configuration management:  Ansible
     - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
     - API gateway & Proxies: Nginx
