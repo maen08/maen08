@@ -15,9 +15,9 @@
 
 
 ### About Me
-A self taught developer specifically, a Python Developer (Pro) with successfully projects under my belt. Not limited to programming but a Tech-Tinker who believes in learning and trying. Currently, pursuing Telecoms engineering (Bachelor degree level) at the University of Dar es Salaam, Tanzania. 
+A self taught developer specifically, a Python Developer (Pro) with successfully projects under my belt. Not limited to programming but a Tech-Tinker who believes in learning and trying. Studied Telecoms engineering (Bachelor degree level) at the University of Dar es Salaam, Tanzania. 
 
-Other skills including **DevOps, OpenSource contributor and Tech writer**.
+Also **DevOps, OpenSource contributor and Tech writer**.
 
 
 
@@ -35,13 +35,13 @@ Other skills including **DevOps, OpenSource contributor and Tech writer**.
     - Cloud/Deployment:  Linode | DigitalOcean | Contabo | AWS | Heroku 
 
 
-- **As DevOps (Junior level)**
+- **As DevOps **
     - Containerization:  Docker | Docker compose
     - CI/CD :   Git | Git actions | Jenkins
-    - Provisioning:  Terraform
+    - Provisioning:  Terraform 
     - Configuration management:  Ansible
     - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
-    - API gateway & Proxies: Nginx
+    - API gateway & Proxies: Nginx | Traefik
  
  
  - **Other skills**
