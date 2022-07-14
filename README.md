@@ -35,7 +35,7 @@ Also **DevOps, OpenSource contributor and Tech writer**.
     - Cloud/Deployment:  Linode | DigitalOcean | Contabo | AWS | Heroku 
 
 
-- **As DevOps **
+- **As DevOps**
     - Containerization:  Docker | Docker compose
     - CI/CD :   Git | Git actions | Jenkins
     - Provisioning:  Terraform 
