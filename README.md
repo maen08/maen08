@@ -15,7 +15,7 @@
 
 
 ### About Me
-A self taught developer specifically, a Python Developer (Pro) with successfully projects under my belt. Not limited to programming but a Tech-Tinker who believes in learning and trying. Studied Telecoms engineering (Bachelor degree level) at the University of Dar es Salaam, Tanzania. 
+A self taught developer specifically, a Python Developer (Pro). Not limited to programming but a Tech-Tinker who believes in learning and trying. 
 
 Also **DevOps, OpenSource contributor and Tech writer**.
 
