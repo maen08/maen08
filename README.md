@@ -15,7 +15,7 @@
 
 
 ### About Me
-A self taught developer specifically, a Python Developer (Pro). Not limited to programming but a Tech-Tinker who believes in learning and trying. 
+A tech-tinker and daily learner. Loves building and breaking stuffs. 
 
 Also **DevOps, OpenSource contributor and Tech writer**.
 
@@ -24,24 +24,26 @@ Also **DevOps, OpenSource contributor and Tech writer**.
 ### My Stack
 
 - **Languages**
-    - Python | JavaScript | Dart | C
+    - Python | JavaScript | SQL | Dart | C
 
 
 - **As a Backed Dev (Web & Mobile)**
     - Frameworks:  Django | Flask | NodeJS
     - Databses: MSQL | Postgres | Maria | Mongo
-    - Message Queues: RabbitMQ | ActiveMQ
+    - Message Queues: RabbitMQ | ActiveMQ | Kafka
     - Web servers:  Nginx | Apache2
-    - Cloud/Deployment:  Linode | DigitalOcean | Contabo | AWS | Heroku 
+    - Architectures: Microservices | SOA | EDA | DDA 
+    - Cloud/Deployment:  AWS | Docker | Hashcorp tools 
 
 
 - **As DevOps**
-    - Containerization:  Docker | Docker compose
+    - Containerization:  Docker | DockerOps
     - CI/CD :   Git | Git actions | Jenkins
-    - Provisioning:  Terraform 
-    - Configuration management:  Ansible
+    - Provisioning:  Hashicorp tools
+    - Configuration management:  Hashicorp tools
     - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
     - API gateway & Proxies: Nginx | Traefik
+    - Security: ASM | SIEM
  
  
  - **Other skills**
@@ -68,7 +70,7 @@ I write articles in my free time and love to share with dev. community. Here are
 - [Personal blog](https://maenblog.tech) | [Dev.to](https://dev.to/maen) 
 
 
-### Available for:
-- OpenSource contribution | Remote job (ONLY Remote) | Seminar/Talk | Coffee discussion
+### Lets talk about:
+- Bible | The Sun | Energy | Heist | Numbers 
 
 
