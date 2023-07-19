@@ -1,8 +1,5 @@
 
 # :man:  Hi, call me "maen"
-<!--  
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)](https://www.upwork.com/freelancers/ruhezastanley)
- -->
 
 - :snake: Ask me about anything relevant
 - :cloud:  Currently learning everything
@@ -17,7 +14,7 @@
 ### About Me
 A tech-tinker and daily learner. Loves building and breaking stuffs. 
 
-Also **DevOps, OpenSource contributor and Tech writer**.
+Also **Backend, DevOps, SecOps, OpenSource**.
 
 
 
@@ -59,18 +56,12 @@ I'm a fun of OpenSource projects and software (OSS). Here's the list of few Open
 - [Tzunipy](https://pypi.org/project/tzunipy/)
 
 
-### Once worked with
-Here's the list of some companies which I once worked with (Freelancing task):
--  [Tuya](https://www.tuya.com) -  Cloud and IoT platform
--  [PostMage](https://postmage.com/) - SaaS platform helping Social media reach
-
-
 ### Writing
-I write articles in my free time and love to share with dev. community. Here are the channels which I use to publish.
+I write articles about my findings (on my free time) at:
 - [Personal blog](https://maenblog.tech) | [Dev.to](https://dev.to/maen) 
 
 
 ### Lets talk about:
-- Bible | The Sun | Energy | Heist | Numbers 
+- Supernature | Nature | Technology | Energy | Heist | Numbers 
 
 
