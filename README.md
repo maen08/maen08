@@ -14,7 +14,7 @@
 ### About Me
 A tech-tinker and daily learner. Loves building and breaking stuffs. 
 
-Also **Backend, DevOps, SecOps, OpenSource**.
+Also **Backend developer, DevSecOps engineer, Security Researcher, OpenSource contributor**.
 
 
 
