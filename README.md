@@ -10,10 +10,9 @@
 
 
 ### About Me
-A tech-tinker and daily learner. Loves building and breaking stuffs. 
+Software engineer and Security researcher. Just a tinker and daily learner who loves to build and break stuff (software).
 
-Also **Backend developer, DevSecOps engineer, Security Researcher, OpenSource contributor**.
-
+Mainly:  **Backend developer, DevSecOps engineer, Security Researcher, OpenSource contributor**.
 
 
 ### My Stack
@@ -22,44 +21,45 @@ Also **Backend developer, DevSecOps engineer, Security Researcher, OpenSource co
     - Python | JavaScript | SQL | Dart | C
 
 
-- **As a Backed Dev (Web & Mobile)**
+- **Backed Dev (Web & Mobile)**
     - Frameworks:  Django | Flask | NodeJS
-    - Databses: MSQL | Postgres | Maria | Mongo
+    - Databses: MSQL | Postgres | Maria | Mongo | Redis
     - Message Queues: RabbitMQ | ActiveMQ | Kafka
-    - Web servers:  Nginx | Apache2
-    - Architectures: Microservices | SOA | EDA | DDA 
+    - Web servers:  Nginx | Apache2 | HAproxy | Caddy | Traefik
+    - Architectures: Microservices with SOA | EDA | DDA 
     - Cloud/Deployment:  AWS | Docker | Hashcorp tools 
 
 
-- **As DevOps**
+- **DevSecOps**
     - Containerization:  Docker | DockerOps
-    - CI/CD :   Git | Git actions | Jenkins
-    - Provisioning:  Hashicorp tools
+    - CI/CD :   Git | Git actions | Jenkins | CircleCI
+    - Provisioning:  Hashicorp tools 
     - Configuration management:  Hashicorp tools
     - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
-    - API gateway & Proxies: Nginx | Traefik
-    - Security: ASM | SIEM
- 
- 
- - **Other skills**
-    - AI / ML:  NumPy | Pandas | Scikit-Learn | PyTorch
-    - Scrapping:  BeautifulSoup | Scrapy | Selenium
+    - API gateway & Proxies: Nginx | Traefik | HAProxy 
+    - Security automation: ASM | SIEM | Veracode | Mend | ELK stack
 
-  
+
+- **Security**
+    - Opensource security researches - Supply Chain attacks, Docker security, Library security
+    - Web application penetration testing
+    - Mobile application penetration testing
+    - IoT device secuirity testing
+    - Secure coding and Sorce code reviewck 
+    - API security
+    - SAST, DAST and SCA automation 
+ 
   
 ### OpenSource contribution
-I'm a fun of OpenSource projects and software (OSS). Here's the list of few Open Source projects which I maintain:
-- [Pyshoket](https://pypi.org/project/pyshoket/)
-- [Djangoroku](https://pypi.org/project/djangoroku)
-- [Tzunipy](https://pypi.org/project/tzunipy/)
+I contribute on OpenSource projects on my free time.
 
 
 ### Writing
 I write articles about my findings (on my free time) at:
-- [Personal blog](https://maenblog.tech) | [Dev.to](https://dev.to/maen) 
+- [Personal blog](https://blog.maentechie.com) | [Dev.to](https://dev.to/maen) 
 
 
 ### Lets talk about:
-- Supernature | Nature | Technology | Energy | Heist | Numbers 
+- Theories | Nature | Technology | Energy | Heist | Numbers | Startups
 
 
