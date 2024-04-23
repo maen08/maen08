@@ -36,7 +36,7 @@ Hobby:  **Building and Breaking software for fun and profit**.
     - Provisioning:  Hashicorp tools 
     - Configuration management:  Hashicorp tools
     - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
-    - API gateway & Proxies: Nginx | Traefik | HAProxy 
+    - Webservers & Proxies: Nginx | Traefik | HAProxy 
     - Security automation: ASM | SIEM | Veracode | Mend | ELK stack
 
 
