@@ -12,7 +12,7 @@
 ### About Me
 Software engineer and Security researcher. Just a tinker and daily learner who loves to build and break stuff (software).
 
-Mainly:  **Backend developer, DevSecOps engineer, Security Researcher, OpenSource contributor**.
+Hobby:  **Building and Breaking software for fun and profit**.
 
 
 ### My Stack
