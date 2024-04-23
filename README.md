@@ -22,7 +22,7 @@ Mainly:  **Backend developer, DevSecOps engineer, Security Researcher, OpenSourc
 
 
 - **Backed Dev (Web & Mobile)**
-    - Frameworks:  Django | Flask | NodeJS
+    - Frameworks:  Django | Flask | NodeJS | Flutter
     - Databses: MSQL | Postgres | Maria | Mongo | Redis
     - Message Queues: RabbitMQ | ActiveMQ | Kafka
     - Web servers:  Nginx | Apache2 | HAproxy | Caddy | Traefik
