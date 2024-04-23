@@ -60,6 +60,6 @@ I write articles about my findings (on my free time) at:
 
 
 ### Lets talk about:
-- Theories | Nature | Technology | Energy | Heist | Numbers | Startups
+- Theories | Nature | Energy | Heist | Numbers 
 
 
