@@ -4,6 +4,7 @@
 - :snake: Ask me about anything relevant
 - :cloud:  Currently learning everything
 - :smile:  Contribute on crazy ideas and Open Source projects
+- :iphone: Contact me via [LinkedIn](https://www.linkedin.com/in/ruheza-ns-57b38718b/)
 
 
 ![profile](https://komarev.com/ghpvc/?username=maen08)
