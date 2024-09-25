@@ -11,7 +11,7 @@
 
 
 ### About Me
-Software developer and Security researcher. Just a tinker who loves to build and break stuff for fun and profit (software).
+Just a tinker who loves to build and break stuff for fun and profit (software).
 
 ### My Stack
 
