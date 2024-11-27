@@ -16,7 +16,7 @@ Just a tinker who loves to build and break stuff for fun and profit (software).
 ### My Stack
 
 - **Languages**
-    - Python | JavaScript | SQL | Dart 
+    - Python | Go | JavaScript | SQL | Dart 
 
 
 - **Backed Dev (Web & Mobile)**
