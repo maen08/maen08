@@ -30,12 +30,12 @@ Just a tinker who loves to build and break stuff for fun and profit (software).
 
 - **DevSecOps**
     - Containerization:  Docker | DockerOps
-    - CI/CD :   Git | Git actions | Jenkins | CircleCI
+    - CI/CD :   Gitlab CI/CD | Git actions | Jenkins
     - Provisioning:  Hashicorp tools 
     - Configuration management:  Hashicorp tools
     - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
-    - Webservers & Proxies: Nginx | Traefik | HAProxy 
-    - Security automation: ASM | SIEM | Veracode | Mend | ELK stack
+    - Webservers & Proxies: Nginx | Traefik | HAProxy | Caddy
+    - Security automation: ASM | SIEM | Veracode | Mend | ELK stack | Gitlab 
 
 
 - **Security**
