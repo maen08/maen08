@@ -19,13 +19,13 @@ Just a tinker who loves to build and break stuff for fun and profit (software).
     - Python | Go | JavaScript | SQL | Dart 
 
 
-- **Backed Dev (Web & Mobile)**
-    - Frameworks:  Django | Flask | NodeJS | Flutter
+- **Backed Dev**
+    - Frameworks:  Django | Flask/FastAPI | NodeJS 
     - Databses: MSQL | Postgres | Maria | Mongo | Redis
-    - Message Queues: RabbitMQ | ActiveMQ | Kafka | Redis
+    - Message Queues: RabbitMQ | Redis | Kafka 
     - Web servers:  Nginx | Apache2 | HAproxy | Caddy | Traefik
     - Architectures: Microservices with SOA | EDA | DDA 
-    - Cloud/Deployment:  AWS | Docker | Hashcorp tools 
+    - Cloud/Deployment:  AWS | Docker | Kubernetes | Hashcorp tools 
 
 
 - **DevSecOps**
@@ -33,23 +33,17 @@ Just a tinker who loves to build and break stuff for fun and profit (software).
     - CI/CD :   Gitlab CI/CD | Git actions | Jenkins
     - Provisioning:  Hashicorp tools 
     - Configuration management:  Hashicorp tools
-    - Orchestration:  Docker Swarm | Docker Manager | Kubernetes
+    - Orchestration:  Docker | Kubernetes
     - Webservers & Proxies: Nginx | Traefik | HAProxy | Caddy
     - Security automation: ASM | SIEM | Veracode | Mend | ELK stack | Gitlab 
 
 
 - **Security**
-    - Opensource security researches / Supply Chain security
-    - Web application penetration testing
-    - Mobile application penetration testing
-    - IoT device secuirity testing
-    - Secure coding and Sorce code review
-    - API security / OWASP Top 10
+    - Author of: CVE-2024-25277, CVE-2025-53983, CVE-2025-53826
+    - Supply Chain security
+    - Web & Mobile app security research
+    - Source code review & Opensource contribution
     - SAST, DAST and SCA automation 
- 
-  
-### OpenSource contribution
-I contribute on OpenSource projects on my free time.
 
 
 ### Writing
