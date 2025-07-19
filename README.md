@@ -39,7 +39,7 @@ Just a tinker who loves to build and break stuff for fun and profit (software).
 
 
 - **Security**
-    - Author of: CVE-2024-25277, CVE-2025-53983, CVE-2025-53826
+    - Author of: `CVE-2024-25277`, `CVE-2025-53983`, `CVE-2025-53826`
     - Supply Chain security
     - Web & Mobile app security research
     - Source code review & Opensource contribution
